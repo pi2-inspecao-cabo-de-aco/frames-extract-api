@@ -1,0 +1,12 @@
+{
+  "name": "frames-extractor-api",
+  "version": "1.0.0",
+  "description": "Service to extract video frames",
+  "main": "index.js",
+  "module": "main.js",
+  "author": "Thiago Moreira <thiago.cmoreira@yahoo.com.br>",
+  "dependencies": {
+    "esm": "^3.2.20",
+    "express": "^4.16.4"
+  }
+}
